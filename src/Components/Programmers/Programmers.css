@@ -1,0 +1,9 @@
+.programmers {
+  background-image: url("https://www.dayton-web-design.com/wp-content/uploads/hm_slide_20.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.programmer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}

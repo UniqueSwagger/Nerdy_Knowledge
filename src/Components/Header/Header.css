@@ -1,0 +1,15 @@
+.header-text {
+  padding-top: 5rem;
+  padding-bottom: 13rem;
+  clip-path: polygon(0 0, 100% 0, 100% 89%, 0% 100%);
+}
+#header-left-image {
+  position: relative;
+  top: -190px;
+  left: 100px;
+}
+#header-right-image {
+  position: relative;
+  top: -320px;
+  left: 32rem;
+}
