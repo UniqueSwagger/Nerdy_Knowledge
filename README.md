@@ -9,3 +9,12 @@ Live Website: https://nerdy-knowledge-tech.netlify.app/
 - Nowadays we can't even pass a day without technologies. So our company will provide high level technologies which will make humans life easier and better than before. Employee and client satisfaction will be our first priority.
 
 - This project will helps you to know about programmers . A User can add programmers for our company according to his choice and can know about their salaries.
+
+## Tools
+
+- HTMl
+- CSS
+- JavaScript
+- React
+- React-Router
+- Bootstrap
